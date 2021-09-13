@@ -9,7 +9,7 @@ RUN npm ci --production
 RUN npm run build
 RUN npm run transfer
 
-FROM python:3
+FROM python:3-alpine
 COPY --from=build /backend /
 
 WORKDIR /
