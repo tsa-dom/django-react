@@ -1,0 +1,4 @@
+venv/
+static-root/
+staticfiles/
+__pycache__
