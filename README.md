@@ -1,4 +1,4 @@
-# Homework
+# Django-React
 
 ## About
 
@@ -8,7 +8,7 @@ This is a simple example application which shows how to connect Django backend a
 
 At first you should clone this repository with command
 
-    $ git clone https://github.com/tsa-dom/homework.git
+    $ git clone https://github.com/tsa-dom/django-react.git
 
 ## Development
 
