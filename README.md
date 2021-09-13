@@ -19,6 +19,10 @@ Create and activate virtual environment for django with commands
     $ python3 -m venv venv
     $ source venv/bin/activate
 
+Install python dependencies with command in the path ```/backend```
+
+    $ pip install -r requirements.txt
+
 Start Django backend environment with following command in the path ```/backend/app```
 
     $ python manage.py runserver 0.0.0.0:8000
